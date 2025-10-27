@@ -1,3 +1,3 @@
 ## Installation
 
-pnpm add @your-npm-username/my-amm-sdk
+pnpm add @seunontech/solana-dex-sdk
